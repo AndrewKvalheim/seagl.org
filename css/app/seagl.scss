@@ -453,27 +453,3 @@ img.align-center {
   gap: 1.9rem;
   padding: 2rem 0;
 }
-
-.links button {
-  width: 80%;
-  max-width: 500px;
-  padding: 2rem 2rem;
-  border: 2px solid #0C5A73;
-  border-radius: 24px;
-  color: white;
-  background: #0C5A73;
-  min-height: 5rem;
-  font-size: 1.6rem;
-  font-family: 'Dosis', sans-serif;
-  font-weight: 600;
-  letter-spacing: 0.05em;
-  box-shadow: 0 4px 16px 0 rgba(0,0,0,0.4);
-  transition: box-shadow 0.2s;
-}
-
-.links button:hover {
-  background: #205060;
-  color: #f9b225;
-  border-color: #f9b225;
-  box-shadow: 0 8px 24px 0 rgba(0,0,0,0.5);
-}

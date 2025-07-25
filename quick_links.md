@@ -13,9 +13,7 @@ redirect_from:
   {% include socials.html %}
   <div class="links">
   {% for link in site.data.quick_links %}
-    <button onclick="window.open('{{ link.url }}', '_blank')">
-      {{ link.label }}
-    </button>
+    <a class="btn btn-primary btn-lg btn-block" href="{{ link.url }}">{{ link.label }}</a>
   {% endfor %}
   </div>
 </div>
