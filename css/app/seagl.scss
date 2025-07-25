@@ -397,8 +397,6 @@ img.align-center {
   margin-bottom: 15px;
 }
 
-
-
 @media screen and (max-width: 910px) {
   .quicklink div {
     z-index: 2;
@@ -433,7 +431,6 @@ img.align-center {
   fill: #eea107;
 }
 
-
 .quicklink {
   display: flex;
   padding: 2rem 0 0;
@@ -445,7 +442,6 @@ img.align-center {
   width: 100%;
   align-items: center;
 }
-
 
 .links {
   display: flex;
@@ -463,9 +459,9 @@ img.align-center {
 }
 
 .links button {
-  width: 80%; 
+  width: 80%;
   max-width: 500px;
-  padding: 2rem 2rem; 
+  padding: 2rem 2rem;
   border: 2px solid #0C5A73;
   border-radius: 24px;
   color: white;
@@ -482,6 +478,6 @@ img.align-center {
 .links button:hover {
   background: #205060;
   color: #f9b225;
-  border-color: #f9b225; 
+  border-color: #f9b225;
   box-shadow: 0 8px 24px 0 rgba(0,0,0,0.5);
 }

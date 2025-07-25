@@ -19,10 +19,3 @@ redirect_from:
   {% endfor %}
   </div>
 </div>
-
-
-
-
-
-
-
